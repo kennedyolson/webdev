@@ -1,0 +1,40 @@
+.myfooter {
+    color: black;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+        
+}
+
+.myfooter2 {
+    color: black;
+    font-family: sans-serif,serif, cursive;
+    font-size: medium;
+    text-decoration: none;
+}
+
+.links {
+    color: blue;
+    text-decoration: underline;
+}
+
+.subheading {
+    color: whitesmoke;
+}
+
+.resume {
+    position: absolute;
+}
+
+.links2 {
+    color: hotpink;
+    text-decoration: underline;
+}
+
+.resume {
+    font-weight: bold;
+}
+
+.contact {
+    color: black;
+}
