@@ -1,0 +1,25 @@
+.title {
+    font-family: sans-serif;
+    color: black;
+    font-size: 18px;
+}
+
+.nav {
+    color: black; 
+    position: absolute right;
+}
+
+.copyright {
+    color: black; 
+}
+
+.header {
+    display: flex;
+    flex-wrap: wrap;
+    color: black;
+    text-decoration: none;
+}
+
+.tableau {
+    color: hotpink; 
+}
