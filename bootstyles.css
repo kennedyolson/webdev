@@ -1,10 +1,8 @@
-<!--I talked to a TA and was told that I could add a background color instead of a background image--> 
 
 .title {
     font-family: sans-serif;
     color: black;
     font-size: 22px;
-    background-color: #1111;
 }
 
 .nav {
@@ -26,7 +24,6 @@
     color: black;
     text-decoration: none;
     color: black;
-    background-color: #1111;
 }
 
 .tableau {
@@ -42,3 +39,4 @@
 .tableau2 { 
     font-size: 18px; 
 }
+
